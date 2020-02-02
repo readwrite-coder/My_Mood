@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Mood</string>
+    <string name="communication">Communication!</string>
+    <string name="button">Button</string>
+</resources>
